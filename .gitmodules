@@ -1,0 +1,3 @@
+[submodule "AddressFormattingDotNet/AddressFormattingData"]
+	path = AddressFormattingDotNet/AddressFormattingData
+	url = https://github.com/OpenCageData/address-formatting
